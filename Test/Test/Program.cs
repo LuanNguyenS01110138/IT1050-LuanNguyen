@@ -4,15 +4,12 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Lab01
+namespace Test
 {
     class Program
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World from Luan Nguyen");
-            Console.ReadLine();
-       
         }
     }
 }
