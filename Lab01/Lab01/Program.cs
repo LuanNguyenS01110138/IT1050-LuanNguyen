@@ -12,7 +12,6 @@ namespace Lab01
         {
             Console.WriteLine("Hello World from Luan Nguyen");
             Console.ReadLine();
-       
         }
     }
 }
